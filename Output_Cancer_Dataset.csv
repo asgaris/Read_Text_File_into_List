@@ -1,0 +1,4 @@
+,Date,Patient_ID,Sex,Age,Tumor_size,Benign_Cancer
+0,20181003,1234,F,58,15-19,N
+1,20191214,1432,M,47,20-25,N
+2,20200517,5412,F,51,18-22,Y
